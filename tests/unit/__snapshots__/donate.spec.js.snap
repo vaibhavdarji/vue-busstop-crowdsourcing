@@ -1,0 +1,162 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Donate.vue should match snapshot 1`] = `
+<v-card-stub
+  tag="div"
+>
+  <v-form-stub>
+    <v-container-stub
+      fluid=""
+      grid-list-xl=""
+      tag="div"
+    >
+      <v-layout-stub
+        tag="div"
+        wrap=""
+      >
+        <v-flex-stub
+          tag="div"
+          xs12=""
+        >
+          <v-card-title-stub
+            class="headline pl-0"
+          >
+            
+             Yes, I want to donate to
+            Peachtree Center Mall :
+            
+            <v-icon-stub
+              left=""
+            >
+              attach_money
+            </v-icon-stub>
+            
+              0
+            
+          </v-card-title-stub>
+        </v-flex-stub>
+         
+        <v-flex-stub
+          pl-0=""
+          tag="div"
+          xs12=""
+        >
+          <custom-button-stub
+            btntype="button"
+          >
+            <v-icon-stub
+              left=""
+            >
+              attach_money
+            </v-icon-stub>
+            
+              2
+           
+          </custom-button-stub>
+          <custom-button-stub
+            btntype="button"
+          >
+            <v-icon-stub
+              left=""
+            >
+              attach_money
+            </v-icon-stub>
+            
+              5
+           
+          </custom-button-stub>
+          <custom-button-stub
+            btntype="button"
+          >
+            <v-icon-stub
+              left=""
+            >
+              attach_money
+            </v-icon-stub>
+            
+              10
+           
+          </custom-button-stub>
+          <custom-button-stub
+            btntype="button"
+          >
+            <v-icon-stub
+              left=""
+            >
+              attach_money
+            </v-icon-stub>
+            
+              15
+           
+          </custom-button-stub>
+          <custom-button-stub
+            btntype="button"
+          >
+            <v-icon-stub
+              left=""
+            >
+              attach_money
+            </v-icon-stub>
+            
+              20
+           
+          </custom-button-stub>
+          <custom-button-stub
+            btntype="button"
+          >
+            <v-icon-stub
+              left=""
+            >
+              attach_money
+            </v-icon-stub>
+            
+              50
+           
+          </custom-button-stub>
+        </v-flex-stub>
+         
+        <v-flex-stub
+          sm6=""
+          tag="div"
+          xs12=""
+        >
+          <v-text-field-stub
+            class="inputPrice"
+            label="Enter Your Amount"
+            outline=""
+            prepend-inner-icon="attach_money"
+            type="number"
+          />
+        </v-flex-stub>
+         
+        <v-flex-stub
+          tag="div"
+          xs12=""
+        >
+          <span
+            class="error--text title font-weight-bold"
+          >
+            Please select an amount to donate
+          </span>
+        </v-flex-stub>
+         
+        <v-flex-stub
+          pl-0=""
+          tag="div"
+          xs12=""
+        >
+          <custom-button-stub
+            btntype="button"
+            disabled="true"
+            type="submit"
+          >
+            
+             Next 
+           
+          </custom-button-stub>
+        </v-flex-stub>
+      </v-layout-stub>
+    </v-container-stub>
+  </v-form-stub>
+</v-card-stub>
+`;

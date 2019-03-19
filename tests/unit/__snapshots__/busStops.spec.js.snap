@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BusStops.vue should match snapshot 1`] = `
+<v-card-stub
+  id="bsc-app-bs-list"
+  tag="div"
+>
+  <v-container-stub
+    fluid=""
+    grid-list-xl=""
+    tag="div"
+  >
+    <!---->
+     
+    <v-layout-stub
+      row=""
+      tag="div"
+      wrap=""
+    />
+  </v-container-stub>
+</v-card-stub>
+`;

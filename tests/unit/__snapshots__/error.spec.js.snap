@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error.vue should match snapshot 1`] = `
+<v-layout-stub
+  tag="div"
+>
+  <v-flex-stub
+    tag="div"
+    xs8=""
+  >
+    <v-list-tile-title-stub
+      class="error--text title font-weight-bold"
+    >
+      
+      Not able to perform the operation at moment! Please try again later.
+      
+    </v-list-tile-title-stub>
+  </v-flex-stub>
+   
+  <v-flex-stub
+    tag="div"
+    xs4=""
+  >
+    <custom-button-stub
+      btntype="button"
+    >
+      
+        Refresh
+    
+    </custom-button-stub>
+  </v-flex-stub>
+</v-layout-stub>
+`;

@@ -1,8 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`BusStops.vue should match snapshot 1`] = `
-<v-hover-stub
-  closedelay="0"
-  opendelay="0"
-/>
-`;
